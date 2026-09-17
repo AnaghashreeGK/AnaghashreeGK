@@ -35,6 +35,14 @@ A collaborative project designed to detect fire and provide alerts with a quick-
 
 ---
 
+### 👟 Smart Blind Shoes
+
+A smart assistive system designed to help visually impaired people navigate more safely by detecting obstacles and water and providing vibration and audio alerts with GPS support.
+
+🔗 [View Project on GitHub](https://github.com/AnaghashreeGK/Smart-Blind-Shoes)
+
+---
+
 ## 📜 Certifications & Training
 
 - **Git Training** — Spoken Tutorial, IIT Bombay  
